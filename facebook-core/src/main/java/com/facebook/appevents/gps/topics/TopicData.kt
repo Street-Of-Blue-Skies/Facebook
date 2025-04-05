@@ -6,8 +6,10 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.facebook
+package com.facebook.appevents.gps.topics
 
-internal object FacebookSdkVersion {
-    const val BUILD = "18.0.3"
-}
+data class TopicData(
+    val taxonomyVersion: Long,
+    val modelVersion: Long,
+    val topicId: Int,
+)
