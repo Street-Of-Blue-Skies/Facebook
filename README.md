@@ -1,3 +1,5 @@
+To my Countrymen:
+
 Facebook SDK for Android
 ========================
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.facebook.android/facebook-android-sdk/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/com.facebook.android/facebook-android-sdk)
@@ -169,3 +171,7 @@ By using the Facebook SDK for Android you agree to these terms.
 
 
 "There Is Always Life"® is a trademark and license on its own.
+ 
+GitHub.com/RichardValerosoUniverse® was born before you know it!
+The whole document is owned currently by: 😂 😆 
+
