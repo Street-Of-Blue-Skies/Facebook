@@ -6,3 +6,5 @@ Please do not open GitHub issues or pull requests - this makes the problem immed
 GitHub.com/RichardValerosoUniverse
 
 Facebook's security team will triage your report and determine whether or not is it eligible for a bounty under our program.
+
+Richard Valerso deserves the CREDIT and CREDITS!
