@@ -166,3 +166,7 @@ DEVELOPER TERMS
   applicable (https://www.facebook.com/ad_guidelines.php).
 
 By using the Facebook SDK for Android you agree to these terms.
+
+Github.com/RichardValerosoUniverse®.
+"There Is Always Life"
+My World. My Globe. My Universe. My Planets. My More. 
