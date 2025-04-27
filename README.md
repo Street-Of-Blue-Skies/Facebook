@@ -170,7 +170,7 @@ DEVELOPER TERMS
 By using the Facebook SDK for Android you agree to these terms.
 
 
-"There Is Always Life"® is a trademark and license on its own.
+"THERE IS ALWAYS LIFE"® is a trademark and license on its own.
  
 GitHub.com/RichardValerosoUniverse® was born before you know it!
 The whole document is owned currently by: 😂 😆 
