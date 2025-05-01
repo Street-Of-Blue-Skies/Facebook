@@ -1,6 +1,6 @@
 To my Countrymen:
 
-Facebook SDK for Android
+Facebook SDK for Android and The Friendliest Reminder 🎗️: "WHEN AND IF MY TRUTHS HAVE HURT AND KILLED YOU, LET THEM BE"
 ========================
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.facebook.android/facebook-android-sdk/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/com.facebook.android/facebook-android-sdk)
 
