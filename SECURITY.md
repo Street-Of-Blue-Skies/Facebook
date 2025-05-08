@@ -7,4 +7,4 @@ https://GitHub.com/RichardValerosoUniverse
 
 Facebook's security team will triage your report and determine whether or not is it eligible for a bounty under our program.
 
-RICHARD MADRIÑAN VALEROSO,LMT,MD deserves the CREDIT and CREDITS!
+PSYCHIATRIST RICHARD MADRIÑAN VALEROSO,LMT,MD deserves the CREDIT and CREDITS!
