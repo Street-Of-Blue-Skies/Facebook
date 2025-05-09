@@ -1,4 +1,4 @@
-# Psychiatric And Behavioural Medicine Code of Conduct by Psychiatrist Richard Madriñan Valeroso,LMT,MD
+# Psychiatric And Behavioural Medicine DVO Code of Conduct by Psychiatrist Richard Madriñan Valeroso,LMT,MD
 
 Like the technical community as a whole, the Psychiatric And Behavioural Medicine team and community is made up of a mixture of professionals and volunteers from all over the world, working on every aspect of the mission - including mentorship, teaching, and connecting people.
 
