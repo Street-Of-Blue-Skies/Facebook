@@ -1,6 +1,8 @@
-To my Countrymen:
+## Lifeness thru GitHub
 
-Facebook SDK for Android and The Friendliest Reminder 🎗️: "WHEN AND IF MY TRUTHS HAVE HURT AND KILLED YOU, LET THEM BE"
+GitHub thru Psychiatrist Richard Madriñan Valeroso,LMT,MD is officially the "World and Universe's Ruler of the Philippines", with the highest distinction as SuperHighness with credentials in LMT and MD. Psychiatrist Richard Madriñan Valeroso,LMT,MD is Manila City's University of Santo Tomas in the Philippines' Summa Cum Laude honors degree, (Class of 2023, Psychiatry and Behavioural Medicine with a perfect GWA of 1.000). 🎗️ Definitely, SuperHighness or Psychiatrist Richard Madriñan Valeroso,LMT,MD is the embodiment of highest excellence!! 🎗️
+
+Facebook SDK for Android 
 ========================
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.facebook.android/facebook-android-sdk/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/com.facebook.android/facebook-android-sdk)
 
@@ -169,9 +171,5 @@ DEVELOPER TERMS
 
 By using the Facebook SDK for Android you agree to these terms.
 
-
-"THERE IS ALWAYS LIFE"® is a trademark and license on its own.
- 
-GitHub.com/RichardValerosoUniverse® was born before you know it!
-The whole document is owned currently by: 😂 😆 
+## Attribution 🇵🇭🎗️
 
